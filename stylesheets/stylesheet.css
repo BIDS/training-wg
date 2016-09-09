@@ -236,8 +236,8 @@ ul, ol, dl {
 
 ul {
   list-style-position: inside;
+  list-style-image: "../images/blue_check.jpg";
   list-style: disc;
-  list-style-type: circle;
   padding-left: 20px;
 }
 
