@@ -61,7 +61,8 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
-  color:#222222;
+  color:#1f3969;
+  text-align: center;
   font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
   letter-spacing: -1px;
 }
@@ -78,7 +79,7 @@ h2 {
 }
 
 h3 {
-  font-size: 24px;
+  font-size: 20px;
 }
 
 h4 {
@@ -203,6 +204,7 @@ ul, ol, dl {
 ul {
   list-style-position: inside;
   list-style: disc;
+  list-style-type: circle;
   padding-left: 20px;
 }
 
@@ -302,16 +304,18 @@ Full-Width Styles
 #project_title {
   margin: 0;
   color: #fff;
-  font-size: 42px;
+  font-size: 30px;
   font-weight: 700;
+  text-align: center;
   text-shadow: #111 0px 0px 10px;
 }
 
 #project_tagline {
   color: #fff;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 300;
   background: none;
+  text-align: center;
   text-shadow: #111 0px 0px 10px;
 }
 
