@@ -64,6 +64,10 @@ footer, header, hgroup, menu, nav, section {
   text-decoration: none;
 }
 
+.wrapper {
+  text-align: center;
+}
+
 ol, ul {
   list-style: none;
 }
