@@ -47,6 +47,8 @@ footer, header, hgroup, menu, nav, section {
   border-radius: 28px;
   font-family: Arial;
   color: #ffffff;
+  position: absolute;
+  top: 50%;
   font-size: 20px;
   padding: 11px 16px 11px 14px;
   text-decoration: none;
