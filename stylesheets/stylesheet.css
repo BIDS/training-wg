@@ -83,7 +83,7 @@ Theme Styles
 
 body {
   box-sizing: border-box;
-  color:#373737;
+  color:#53265a;
   background: #212121;
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
@@ -155,6 +155,7 @@ a {
 a:hover, a:focus {text-decoration: underline;}
 
 footer a {
+  background: -webkit-linear-gradient(top, #1f3969, #6e4e7b);
   color: #F2F2F2;
   text-decoration: underline;
 }
