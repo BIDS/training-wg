@@ -155,7 +155,6 @@ a {
 a:hover, a:focus {text-decoration: underline;}
 
 footer a {
-  background: -webkit-linear-gradient(top, #1f3969, #6e4e7b);
   color: #F2F2F2;
   text-decoration: underline;
 }
@@ -402,7 +401,7 @@ Full-Width Styles
 }
 
 #footer_wrap {
-  background: #212121;
+  background: -webkit-linear-gradient(top, #1f3969, #6e4e7b);
 }
 
 
