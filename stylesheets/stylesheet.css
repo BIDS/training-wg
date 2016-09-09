@@ -235,7 +235,7 @@ ul, ol, dl {
 }
 
 ul {
-  list-style-image: url('blue_check.jpg');
+  list-style-image: url('blue_star.png');
   padding-left: 20px;
 }
 
