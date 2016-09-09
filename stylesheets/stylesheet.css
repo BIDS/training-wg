@@ -235,7 +235,6 @@ ul, ol, dl {
 }
 
 ul {
-  list-style-position: inside;
   list-style-image: "blue_check.jpg";
   padding-left: 20px;
 }
